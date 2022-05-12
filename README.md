@@ -25,3 +25,8 @@
 The number generated will the the amount of time, in minutes, that it will take for the driver to arrive.
 HOWEVER, if the number happen to be greater than 31, it will simply say "driver unavailable" 
 
+## Flow Chart
+![alt text](https://imgur.com/a/cD2gorl)
+
+## Mockup
+![alt text](https://imgur.com/a/8z2T0NV)
