@@ -2,11 +2,11 @@
 # Mac Armstrong
 # 5/12/22
 
-###### **Overview of App**
+## Overview of App
 
 -A bad "Uber" replica
 
-###### **User Inputs**
+## User Inputs
 
 -The user will be prompted with an alert, asking to allow location
 	1.If user selects "no", app will simply close
@@ -16,7 +16,7 @@
 -Once you select a location, another screen with the drivers will appear, aside them is their rating. 
 -After selectng a driver, the 
 
-###### **Features**
+## Features
 
 -After selecting a driver, a random number generator will run between 1-35. 
 The number generated will the the amount of time, in minutes, that it will take for the driver to arrive.
