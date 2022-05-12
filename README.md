@@ -16,7 +16,7 @@
 - Once loaded, cities surrounding the Phoenix area and beyond will appear 
 - Aside the city name is the distance from our location (hard set in Mesa)
 - Once you select a location, another screen with the drivers will appear, aside them is their rating. 
-- After selectng a driver, the random number generator (explained in 'Features') will run
+- After selectng a driver, , a confirmation alert will show up, then the random number generator (explained in 'Features') will run
 - Nothing else actually happens, but you can use it as a roulette for if you get more than 31 on the RNG :)
 
 ## Features
