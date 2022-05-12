@@ -17,6 +17,7 @@
 - Aside the city name is the distance from our location (hard set in Mesa)
 - Once you select a location, another screen with the drivers will appear, aside them is their rating. 
 - After selectng a driver, the random number generator (explained in 'Features') will run
+- Nothing else actually happens, but you can use it as a roulette for if you get moe than 31 on the RNG :)
 
 ## Features
 
