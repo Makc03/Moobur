@@ -22,8 +22,8 @@
 ## Features
 
 - After selecting a driver, a random number generator will run between 1-35. 
-The number generated will the the amount of time, in minutes, that it will take for the driver to arrive.
-HOWEVER, if the number happen to be greater than 31, it will simply say "driver unavailable" 
+- The number generated will the the amount of time, in minutes, that it will take for the driver to arrive.
+- HOWEVER, if the number happen to be greater than 31, it will simply say "driver unavailable" 
 
 ## Flow Chart
 ![flow chart diagram](https://i.imgur.com/TfFh2WP.png)
