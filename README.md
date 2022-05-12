@@ -10,8 +10,8 @@
 ## User Inputs
 
 - The user will be prompted with an alert, asking to allow location
-1. If user selects "no", app will simply close
-2. If user selects "yes", app will continue 
+  1. If user selects "no", app will simply close
+  2. If user selects "yes", app will continue 
 
 - Once loaded, cities surrounding the Phoenix area and beyond will appear 
 - Aside the city name is the distance from our location (hard set in Mesa)
