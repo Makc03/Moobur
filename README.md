@@ -5,17 +5,18 @@
 
 ## Overview of App
 
--A bad "Uber" replica
+- A bad "Uber" replica
 
 ## User Inputs
 
--The user will be prompted with an alert, asking to allow location
+- The user will be prompted with an alert, asking to allow location
 1. If user selects "no", app will simply close
 2. If user selects "yes", app will continue 
 
--Once loaded, cities surrounding the Phoenix area and beyond will appear, aside the city name is the distance from our location (hard set in Mesa)
--Once you select a location, another screen with the drivers will appear, aside them is their rating. 
--After selectng a driver, the 
+- Once loaded, cities surrounding the Phoenix area and beyond will appear 
+- Aside the city name is the distance from our location (hard set in Mesa)
+- Once you select a location, another screen with the drivers will appear, aside them is their rating. 
+- After selectng a driver, the random number generator (explained in 'Features') will run
 
 ## Features
 
